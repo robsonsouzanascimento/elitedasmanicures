@@ -1,1 +1,87 @@
+/* Defina a cor principal que representa a "Elite das Manicures" */
+body {
+    background-color: #FFC0CB; /* Rosa Claro */
+    font-family: Arial, sans-serif;
+}
+
+/* Estilize o cabeçalho e a navegação */
+.navbar {
+    background-color: #FF1493; /* Rosa Médio */
+}
+
+.navbar-brand {
+    color: #FFF; /* Texto branco */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #FFF; /* Texto branco */
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Estilize o Jumbotron */
+.jumbotron {
+    background-color: #FFF; /* Fundo branco */
+    color: #FF1493; /* Texto rosa médio */
+    padding: 100px 0;
+}
+
+.jumbotron h1 {
+    font-size: 36px;
+}
+
+.jumbotron p {
+    font-size: 18px;
+}
+
+.jumbotron .btn-primary {
+    background-color: #FF1493; /* Botão rosa médio */
+    color: #FFF; /* Texto branco */
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+}
+
+.jumbotron .btn-primary:hover {
+    background-color: #FF69B4; /* Rosa mais claro quando passar o mouse */
+}
+
+/* Estilize as seções */
+section {
+    padding: 50px 0;
+}
+
+section h2 {
+    color: #FF1493; /* Título rosa médio */
+    font-size: 28px;
+    font-weight: bold;
+}
+
+section p {
+    font-size: 18px;
+}
+
+/* Estilize os botões e ícones */
+.btn-primary {
+    background-color: #FF1493; /* Botão rosa médio */
+    color: #FFF; /* Texto branco */
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.btn-primary:hover {
+    background-color: #FF69B4; /* Rosa mais claro quando passar o mouse */
+}
+
+/* Estilize o rodapé (opcional) */
+footer {
+    background-color: #FF1493; /* Rosa médio */
+    color: #FFF; /* Texto branco */
+    text-align: center;
+    padding: 20px 0;
+    font-size: 16px;
+}
 
